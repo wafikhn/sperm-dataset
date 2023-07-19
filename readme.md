@@ -11,9 +11,10 @@
   </ol>
 </details>
 
-### Built With
+### List Video
+This is a video dataset that I obtained from a research conducted by Fara Mutia in 2019 with the research title "Algoritme pemrosesan video untuk pengukuran kualitas semen sapi dengan teknik optical flow tugas akhir".
 
 dataset :
-50-3.mp4
-51-2.mp4
-55--3.mp4
+1.50-3.mp4
+2.51-2.mp4
+3.55--3.mp4
